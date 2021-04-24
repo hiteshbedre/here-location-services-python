@@ -93,3 +93,4 @@ Copyright (C) 2019-2021 HERE Europe B.V.
 
 See the [License](LICENSE) file in the root of this project for license details.
 
+#trigger built 1
